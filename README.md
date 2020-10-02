@@ -1,6 +1,7 @@
 # Temperature-Converter
+
+A temperature converter made with HTML, CSS and javaScript.
+
 Enter a number to convert fahrenheit and celsius. 
 
-Style the background with CSS using linear gradient.
-
-Made with HTML, CSS and javaScript.
+The background is styled with CSS using linear gradient.
