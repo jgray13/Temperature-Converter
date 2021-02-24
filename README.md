@@ -1,6 +1,6 @@
 # Temperature-Converter
 
-A temperature converter made with HTML, CSS and javaScript.
+A temperature converter made with HTML, CSS and JavaScript.
 
 Enter a number to convert fahrenheit and celsius. 
 
