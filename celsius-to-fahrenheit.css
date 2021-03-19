@@ -48,7 +48,7 @@ input[type=number] {
 }
 #container {
 	width: 85%;
-	margin: 50px auto;
+	margin: 50px auto 0;
 	padding: 0;
 }
 .section {
@@ -96,7 +96,7 @@ input[type=number] {
 @media only screen and (min-width: 768px) {
 	#container {
 		width: 60%;
-		margin: 70px auto;
+		margin: 70px auto 0;
 	}
 	#c-to-f {
     padding: 40px 0;
