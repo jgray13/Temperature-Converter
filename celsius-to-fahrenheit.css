@@ -36,6 +36,7 @@ input {
 	border: 2px solid #bbb;
 }
 input:focus {
+		border: 2px solid #999;
 }
 input::-webkit-outer-spin-button,
 input::-webkit-inner-spin-button {
