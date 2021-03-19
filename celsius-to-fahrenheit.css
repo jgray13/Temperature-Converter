@@ -9,7 +9,7 @@
 body {
     text-align: center;
     margin: 0 auto;
-    font-size: 16px;
+    font-size: 15px;
     min-height: 100%;
   }
 main {
@@ -19,7 +19,7 @@ main {
     overflow: auto;
 }
 h1 {
-	font-size: 30px;
+	font-size: 27px;
 	margin: 30px auto;
 }
 h3 {
@@ -47,7 +47,7 @@ input[type=number] {
 }
 #container {
 	width: 85%;
-	margin: 0 auto;
+	margin: 0 auto 100px;
 	padding: 0;
 }
 .section {
