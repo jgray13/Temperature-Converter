@@ -12,21 +12,25 @@
 <h3>Enter a number to make a conversion</h3>
 <div id="container">
 <div id="c-to-f">
-<p><input id="cel" onkeyup="convertC()">
-Degrees Celsius: 
-</p> 
-<p><input id="fahResult">
- Result in Fahrenheit: 
-</p> 
+<div class="section">
+<label for="cel">Degrees Celsius:</label>
+<input type="number" id="cel" name="cel" onkeyup="convertC()">
+</div>
+<div class="section">
+<label for="fahResult">Result in Fahrenheit:</label> 
+<input type="number" id="fahResult" name="fahResult">
+</div>
 </div>
 
 <div id="f-to-c">
-<p><input id="fah" onkeyup="convertF()">
-Degrees Fahrenheit: 
-</p> 
-<p><input id="celResult">
-Result in Celsius: 
-</p> 
+<div class="section">
+<label for="fah">Degrees Fahrenheit:</label>
+<input type="number" id="fah" name="fah" onkeyup="convertF()">
+</div>
+<div class="section">
+<label for="celResult">Result in Celsius:</label>
+<input type="number" id="celResult" name="celResult">
+</div>
 </div>
   
 <script src="input-celsius-to-fahrenheit.js"></script>
