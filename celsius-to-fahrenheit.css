@@ -128,18 +128,6 @@ input[type=number] {
 	#container {
 	    width: 40%;
 	}
-/*	body {
-        font-size: 25px;
-    }
-    h1 {
-	    font-size: 40px;
-    }
-    h3 {
-	    font-size: 28px;
-    }
-	input {
-		font-size: 24px;
-	}*/
 }
 @media only screen and (min-width: 1300px) {
 	#container {
